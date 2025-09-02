@@ -9,10 +9,10 @@ const server=http.createServer((req,res)=>{
        res.end("Welcome to home"); 
     }
     else if(url==="/home/page"){
-        res.end("welcomr to page");
+        res.end("welcomr to first page");
     }
     else if(url==="/home/page/help"){
-        res.end("welcomr to help");
+        res.end("welcomr to help section");
     }
 
      else if(url==="/home/page/help/1"){
