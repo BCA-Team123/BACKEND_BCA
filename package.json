@@ -1,11 +1,19 @@
 {
   "name": "backdev",
   "version": "1.0.0",
-  "description": "",
+  "description": "backddev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": ""
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCA-Team123/second.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCA-Team123/second/issues"
+  },
+  "homepage": "https://github.com/BCA-Team123/second#readme"
 }

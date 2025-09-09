@@ -15,14 +15,14 @@ const server=http.createServer((req,res)=>{
         res.end("welcomr to help section");
     }
 
-     else if(url==="/home/page/help/1"){
+    else if(url==="/home/page/help/1"){
         res.end("welcomr to help");
     }
     else if(url==="/home/page/help/main"){
         res.end("welcomr to main");
     }
     else
-        res.end("no path created"); 
+        res.end("no path created"); //function
     
 }
 )
