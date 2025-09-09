@@ -22,7 +22,7 @@ const server=http.createServer((req,res)=>{
         res.end("welcomr to main");
     }
     else
-        res.end("no path created"); //function
+        res.end("no path created"); //function new
     
 }
 )
