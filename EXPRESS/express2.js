@@ -21,9 +21,6 @@ app.use((err, req, res, next) => {
     },
   });
 
-
-
-  
 });
 
 app.listen(3000, () => {
