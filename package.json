@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BCA-Team123/second/issues"
   },
-  "homepage": "https://github.com/BCA-Team123/second#readme"
+  "homepage": "https://github.com/BCA-Team123/second#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
